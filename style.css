@@ -1,0 +1,119 @@
+#top
+{
+    background-color: black;
+    height: 15px;
+    width: 100%;
+}
+body
+{ background-color: white;
+
+}
+#cont
+{
+    width: 70%;
+    margin: 0px auto;
+
+}
+#head
+{
+    background-color: white;
+    width: 100%;
+    height: 80px;
+}
+#head img
+{
+    height: 80px;
+    width: 170px;
+}
+#head ul 
+{float: right;
+ list-style-type: none;
+ margin-top: 30px;
+
+}
+#head ul li a
+{
+    margin-right: 20px;
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+}
+#head ul li a:hover
+{
+    background-color: gray;
+    color: white;
+    padding: 8px;
+}
+#head ul li
+{
+    display: inline;
+    margin-right: 20px;
+}
+#notice img
+{width: 100%;
+    height: 450px;
+    padding-bottom: 20px;
+
+}
+#cont1
+{
+    width: 32%;
+    height: 250px;
+    background-color:  orangered;
+    float: left;
+    margin-right: 2%;
+}
+#cont2
+{
+    width: 32%;
+    height: 250px;
+    background-color: yellow;
+    float: left;
+    
+}
+#cont3
+{
+    width: 32%;
+    height: 250px;
+    background-color: greenyellow;
+    float:right;
+}
+.lio
+{
+    margin-left: 20px;
+    font-size: 30px;
+    color: white;
+}
+.pet
+{
+    color: white;
+    margin-left: 20px;
+    margin-right: 15px;
+}
+.den
+{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 8px;
+    margin-left: 20px;
+}
+#lil
+{
+    width: 64%;
+    height: 330px;
+    
+    float: left;
+    padding-left: 2%;
+}
+#sell
+{
+    width: 32%;
+    height: 330px;
+    
+    float: right;
+}
+#kit
+{
+    color: yellow;
+}
